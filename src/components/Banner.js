@@ -62,7 +62,7 @@ const Banner = () => {
                     <span className="wrap">{text}</span>
                   </div>
                 </h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>specialized in React. I love building clean and intuitive interfaces, conversations about design and delivering features that help simplify a user's experience.</p>
                 <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
