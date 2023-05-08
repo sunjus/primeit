@@ -168,20 +168,20 @@ const langArr = {
         "en": "Call"
     },
     "call-head": {
-        "kr": "본사 |",
-        "en": "Head office | +358"
+        "kr": "본사 | Piispankulma 1 B, 02200 Espoo, Finland",
+        "en": "Head office | Piispankulma 1 B, 02200 Espoo, Finland"
     },
     "call-rep": {
-        "kr": "대표사무소 | ",
-        "en": "Representative office | +82"
+        "kr": "대표사무소 | 대한민국 서울특별시 서초구 바우뫼로 144 서방빌딩 604호",
+        "en": "Representative office | #604 Seobang building, 144 Baumoe-ro, Seocho-gu, Seoul, South-Korea"
     },
     "email": {
         "kr": "이메일",
         "en": "Email"
     },
-    "": {
-        "kr": "",
-        "en": ""
+    "email-kr": {
+        "kr": "primeitkorea@primeit.fi",
+        "en": "primeit@primeit.fi"
     },
     "": {
         "kr": "",
