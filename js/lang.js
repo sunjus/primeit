@@ -15,6 +15,10 @@ const langArr = {
         "kr": "가능하게 만듭니다",
         "en": "into possible"
     },
+    "title3": {
+        "kr": " 우리는 불가능을  가능하게 만듭니다",
+        "en": "We turn impossible tasks into possible"
+    },
     "ref": {
         "kr": "레퍼런스 프로젝트",
         "en": "Reference Projects"
