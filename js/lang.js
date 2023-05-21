@@ -9,14 +9,14 @@ const langArr = {
     },
     "title1": {
         "kr": "우리는 불가능을",
-        "en": "We turn impossible tasks"
+        "en": "We turn impossible"
     },
     "title2": {
         "kr": "가능하게 만듭니다",
-        "en": "into possible"
+        "en": "tasks into possible"
     },
     "title3": {
-        "kr": " 우리는 불가능을  가능하게 만듭니다",
+        "kr": " 우리는 불가능을 가능하게 만듭니다",
         "en": "We turn impossible tasks into possible"
     },
     "ref": {
