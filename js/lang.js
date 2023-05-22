@@ -75,6 +75,30 @@ const langArr = {
         "kr": "위기 관리 및 기업 갈등 해결에 대한 광범위한 경험을 통해 우리는 비교문화적 커뮤니케이션의 뉘앙스와 함정을 고려하여 가장 복잡한 국제 협상을 성공적으로 지원합니다.",
         "en": "Extensive experience in crisis management and resolving corporate conflicts allows us to successfully support the most complex international negotiations, taking into account cross-cultural communication nuances and pitfalls."
     },
+		"service-title11": {
+			"kr": "예술 작품으로 승화시킨 컨설팅",
+			"en": "Consulting into a work of art"
+	},
+	"service-des11": {
+			"kr": "Prime IT Oy는 컨설팅을 예술 작품으로 승화시킵니다. 우리는 각 프로젝트에 대한 창의적인 접근 방식을 찾고, 누락된 다리를 건설하며 성공을 위한 모든 요소가 함께 작동하도록 합니다.",
+			"en": "Prime IT Oy turns consulting into a work of art. We find a creative approach to each project, build the missing bridges and make all the ingredients for success work together."
+	},
+	"service-title22": {
+			"kr": "다양한 전문적인 서비스",
+			"en": "Diverse expert services"
+	},
+	"service-des22": {
+			"kr": "당사는 전략적 분석, 국제 사업 개발, 투자 유치, 수혜자 이익 대변, 경영 컨설팅 및 기타 전문 서비스를 제공합니다.",
+			"en": "We offer strategic analysis, international business development, raising investment, beneficiary interest representation, management consulting and other expert services."
+	},
+	"service-title33": {
+			"kr": "복잡한 국제 협상을 성공적으로 지원",
+			"en": "Support the most complex negotiations"
+	},
+	"service-des33": {
+			"kr": "위기 관리 및 기업 갈등 해결에 대한 광범위한 경험을 통해 우리는 비교문화적 커뮤니케이션의 뉘앙스와 함정을 고려하여 가장 복잡한 국제 협상을 성공적으로 지원합니다.",
+			"en": "Extensive experience in crisis management and resolving corporate conflicts allows us to successfully support the most complex international negotiations, taking into account cross-cultural communication nuances and pitfalls."
+	},
     "values": {
         "kr": "가치",
         "en": "Values"
