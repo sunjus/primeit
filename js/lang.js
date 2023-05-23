@@ -148,19 +148,19 @@ const langArr = {
         "en": "Our advantages through the eyes of clients"
     },
     "client-detail1": {
-        "kr": "탁월한 네트워킹 능력. 단순히 적임자를 찾아 유능한 프레젠테이션을 하는 것 뿐만 아니라 모두가 듣고 이해할 수 있도록 섬세하고 정성적으로 입장을 전달합니다.",
+        "kr": "탁월한 네트워킹 능력. 단순히 적임자를 찾아 유능한 프레젠테이션을 하는 것 뿐만 아니라 모두가 듣고 이해할 수 있도록 섬세하고 정성적으로 입장을 전달해줍니다.",
         "en": "Excellent networking capabilities. Not just finding the number of the right person and making a competent presentation, but subtly and qualitatively conveying the position so that everyone listens and understands."
     },
     "client-detail2": {
-        "kr": "가장 비인습적인 업무를 셋업하고 잊어버릴 수도 있습니다… 모든것이 완료되어 있을 겁니다",
+        "kr": "가장 비인습적인 업무를 셋업하고 잊어버리고 있더라도 모든것이 잘 마무리 되어 있을 겁니다",
         "en": "The most unconventional task can be set and forgotten... Everything will be done."
     },
     "client-detail3": {
-        "kr": "가장 어려운 작업을 한 헤드에서 다른 쪽으로 옮기고 착지하여 가시적인 결과를 가져오는 능력입니다.",
+        "kr": "가장 어려운 작업을 한 헤드에서 다른 쪽으로 옮기고 실행시켜 가시적인 결과를 가져오는 능력을 가지고 있습니다.",
         "en": "The ability to transfer the toughest tasks from one head to another, land them and bring them to a tangible result."
     },
     "client-detail4": {
-        "kr": "올바른 우선 순위를 설정하고 원하는 결과를 달성하는 명확성, 진정성 및 숙련도.",
+        "kr": "올바른 우선 순위를 설정하고 원하는 결과를 달성하는 명확성, 진정성 및 숙련도를 보여줍니다.",
         "en": "Clarity, integrity, and proficiency in setting the right priorities and achieving the desired results."
     },
     "client-detail5": {
@@ -168,7 +168,7 @@ const langArr = {
         "en": "Not just doing everything on time, on budget and to the right extent, but arranging everything autonomously when no conditions are in place."
     },
     "client-detail6": {
-        "kr": "마치 공기처럼 모든 것을 하나로 모을 수 있습니다.",
+        "kr": "마치 공기처럼 모든 것을 하나로 모아줄 수 있습니다.",
         "en": "Can put everything together — just as the air does."
     },
     "contact": {
