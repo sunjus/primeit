@@ -143,6 +143,14 @@ const langArr = {
         "kr": "우리는 우리가 하는 일이 지역 사회에 힘을 실어주고 사회적 장벽을 제거함으로써 사회 복지에 도움이 될 수 있다고 믿습니다.",
         "en": "We believe our work can benefit the welfare of society by re-empowering local communities and eliminating social barriers."
     },
+    "value-title6": {
+        "kr": "우리는 전세계적으로 사업을 확장하고 있습니다.",
+        "en": "We are expanding our business globally."
+    },
+    "value-des6": {
+        "kr": "우리의 비즈니스 지역은 아프리카, 아시아, 북부, 중부 및 동부 유럽을 포괄합니다. 최근에는 한국 지사를 개설했습니다.",
+        "en": "Our business geography covers Africa, Asia, Northern, Central, and Eastern Europe. Recently we open Korean branch."
+    },
     "client": {
         "kr": "고객의 눈으로 본 우리의 장점",
         "en": "Our advantages through the eyes of clients"
