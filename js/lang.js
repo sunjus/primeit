@@ -16,8 +16,12 @@ const langArr = {
         "en": "tasks into possible"
     },
     "title3": {
-        "kr": " 우리는 불가능을 가능하게 만듭니다",
-        "en": "We turn impossible tasks into possible"
+        "kr": "우리는 모든 약속을",
+        "en": "We deliver"
+    },
+    "title4": {
+        "kr": "이행합니다",
+        "en": "on all our commitments"
     },
     "ref": {
         "kr": "레퍼런스 프로젝트",
@@ -212,32 +216,12 @@ const langArr = {
         "en": "Representative office | #604 Seobang building, 144 Baumoe-ro, Seocho-gu, Seoul, South-Korea"
     },
     "email": {
-        "kr": "이메일",
-        "en": "Email"
+        "kr": "<a href='mailto:ppo@gmail.com'>이메일 보내기</a>",
+        "en": "<a href='mailto:ppoqueen@gmail.com'>SEND EMAIL</a>"
     },
     "email-kr": {
         "kr": "primeitkorea@primeit.fi",
-        "en": "primeit@primeit.fi"
-    },
-    "": {
-        "kr": "",
-        "en": ""
-    },
-    "": {
-        "kr": "",
-        "en": ""
-    },
-    "": {
-        "kr": "",
-        "en": ""
-    },
-    "": {
-        "kr": "",
-        "en": ""
-    },
-    "": {
-        "kr": "",
-        "en": ""
+        "en": "primeit@primteit.fi"
     },
     "": {
         "kr": "",
