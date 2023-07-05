@@ -216,8 +216,8 @@ const langArr = {
         "en": "Representative office | #604 Seobang building, 144 Baumoe-ro, Seocho-gu, Seoul, South-Korea"
     },
     "email": {
-        "kr": "<a href='mailto:ppo@gmail.com'>이메일 보내기</a>",
-        "en": "<a href='mailto:ppoqueen@gmail.com'>SEND EMAIL</a>"
+        "kr": "<a href='mailto:primeitkorea@primeit.fi' class='button button-rounded button-large text-transform-none ls-0 font-primary'>이메일 보내기</a>",
+        "en": "<a href='mailto:primeit@primteit.fi' class='button button-rounded button-large text-transform-none ls-0 font-primary'>SEND EMAIL</a>"
     },
     "email-kr": {
         "kr": "primeitkorea@primeit.fi",
